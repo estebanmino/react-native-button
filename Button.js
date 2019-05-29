@@ -10,7 +10,7 @@ import {
 
 import coalesceNonElementChildren from './coalesceNonElementChildren';
 
-const systemButtonOpacity = 0.2;
+const systemButtonOpacity = 1;
 
 export default class Button extends Component {
   static propTypes = {
